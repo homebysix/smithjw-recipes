@@ -10,8 +10,6 @@
     <dict>
       <key>NAME</key>
       <string>DisplayLink Manager</string>
-      <key>DOWNLOAD_URL</key>
-      <string>https://www.displaylink.com/downloads</string>
     </dict>
     <key>MinimumVersion</key>
     <string>1.0.0</string>
